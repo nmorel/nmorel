@@ -21,5 +21,5 @@
 ## 🤝 Social Media / links
 
 * Twitter: [@nmor3l](https://twitter.com/nmor3l)
-* Github: [nmorel](https://github.com/nmorel) on GitHub
+* Github: [nmorel](https://github.com/nmorel)
 * LinkedIn: [nmor3l](https://www.linkedin.com/in/nmor3l)
