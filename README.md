@@ -15,7 +15,7 @@
         
 ## 📢 Talks
 
-* Future speaker @ [Devfest Nantes](https://twitter.com/devfestnantes) 2022: Codelab about Module Federation
+* Speaker @ [Devfest Nantes](https://twitter.com/devfestnantes) 2022: Codelab about Module Federation ([:octocat: Code](https://github.com/nmorel/workshop-module-federation))
 * Speaker @ [Breizhcamp](https://twitter.com/breizhcamp) 2022: Quickie about Turborepo ([🎥 Recording](https://youtu.be/lqoIFFDLLJ4) / [:octocat: Code](https://github.com/nmorel/turbohero))
 
 ## 🤝 Social Media / links
