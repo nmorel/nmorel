@@ -6,7 +6,7 @@
 
 ## 👱‍♂️ Who am I
 
-* Staff Software Engineer @ [Klaxoon](https://klaxoon.com/)
+* Senior Software Engineer @ [Klaxoon](https://klaxoon.com/)
 * Used to be a Java developer (GWT / Spring / Hibernate)
 * Now a Javascript / Typescript developer
 * Trying to learn Rust
@@ -15,6 +15,7 @@
         
 ## 📢 Talks
 
+* Speaker @ [JUG Nantes](https://nantesjug.org/#/events/2023_01_24)
 * Speaker @ [Devfest Nantes](https://twitter.com/devfestnantes) 2022: Codelab about Module Federation ([:octocat: Code](https://github.com/nmorel/workshop-module-federation))
 * Speaker @ [Breizhcamp](https://twitter.com/breizhcamp) 2022: Quickie about Turborepo ([🎥 Recording](https://youtu.be/lqoIFFDLLJ4) / [:octocat: Code](https://github.com/nmorel/turbohero))
 
