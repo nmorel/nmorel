@@ -6,10 +6,11 @@
 
 ## 👱‍♂️ Who am I
 
-* Senior Software Engineer @ [Klaxoon](https://klaxoon.com/)
+* Senior Software Engineer @ [Gladia](https://www.gladia.io/)
 * Used to be a Java developer (GWT / Spring / Hibernate)
 * Now a Javascript / Typescript developer
 * Trying to learn Rust
+* Worked for [Klaxoon](https://klaxoon.com/)
 * Worked for [Mille Volts](https://www.millevolts.fr/)
 * Worked for [Capgemini](https://www.capgemini.com/)
         
